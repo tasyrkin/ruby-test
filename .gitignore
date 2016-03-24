@@ -1,3 +1,10 @@
+# idea
+.idea
+*.iml
+
+# vim
+*.swp
+
 *.gem
 *.rbc
 /.config
